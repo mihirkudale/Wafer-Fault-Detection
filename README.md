@@ -214,9 +214,6 @@ git commit -m "proper message"
 git push 
 ```
 
-
-## #docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
-
     
     
     
